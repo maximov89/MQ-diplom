@@ -233,7 +233,6 @@ button {
 .actual-trends {
     margin-top: 65px;
     width: 100%;
-    max-width: 1660px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -630,6 +629,7 @@ button {
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 15px;
+    text-transform: uppercase;
 }
 
 .shop-item-descr > p {
@@ -931,17 +931,17 @@ button {
 
     .header-hamburger {
         display: block;
-        width: 26px;
+        width: 22px;
         height: 12px;
         cursor: pointer;
     }
 
     .header-hamburger span {
         display: block;
-        height: 2px;
+        height: 3px;
         width: 100%;
         background-color: #fff;
-        margin-bottom: 2px;
+        margin-bottom: 5px;
         transition: 0.5s all;
     }
 
