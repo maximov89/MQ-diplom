@@ -941,6 +941,7 @@ button {
         width: 22px;
         height: 12px;
         cursor: pointer;
+        margin-bottom: 20px;
     }
 
     .header-hamburger span {
