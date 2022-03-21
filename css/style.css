@@ -2,14 +2,14 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src: url(../fonts/OpenSans-Regular.woff) format(woff);
+    src: url(../fonts/OpenSans-Regular.woff);
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Open Sans';
-    src: url(../fonts/OpenSans-Bold.woff) format(woff);
+    src: url(../fonts/OpenSans-Bold.woff);
     font-weight: 700; 
     font-style: normal;  
 }
@@ -534,11 +534,11 @@ button {
 .aside-tags-items > li > a {
     display: block;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 900;
     padding: 5px 15px;
     text-transform: uppercase;
     color: #000000;
-    opacity: 0.75;
+    opacity: 1;
     border: 2px solid #ededed;
     transition: opacity 0.2s linear;
     transition: border 0.2s linear;
